@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\Contexts",
+    "\\Controllers",
+    "\\Domains",
+    "\\Interfaces",
+    "\\obj",
+    "\\Repositories"
+  ],
+  "SelectedNode": "\\Startup.cs",
+  "PreviewInSolutionExplorer": false
+}
